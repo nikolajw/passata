@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af883afe-3322-4f72-a25a-09d75af204b7" name="Changes" comment="Fix word length bug">
+    <list default="true" id="af883afe-3322-4f72-a25a-09d75af204b7" name="Changes" comment="use eff list">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/passata/words1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/passata/words2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tools/filter_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/tools/filter_file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/passata/words1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/passata/words1.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +122,15 @@
       <option name="project" value="LOCAL" />
       <updated>1790522201408</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="use eff list">
+      <option name="closed" value="true" />
+      <created>1790523421692</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1790523421692</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,6 +139,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="Fix word length bug" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix word length bug" />
+    <MESSAGE value="use eff list" />
+    <option name="LAST_COMMIT_MESSAGE" value="use eff list" />
   </component>
 </project>
